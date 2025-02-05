@@ -1,5 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hola, soy Angel, bienvenido👋></h1>
+</div>
 
+![Banner para Linkedin Personal Minimalista Neutral](https://github.com/user-attachments/assets/51fc3859-de8e-4afc-ae95-6ce3418ff40b)
+
+## Sobre mí
+
+- ⚙️ Estudiante de Ingeniería Industrial
+- 💻 Material relacionado a: Power BI, SQL y Excel
+- 📊 Proyectos y dashboards de diversos sectores
+- 🧠 Arendiendo Python
 <!--
 **Angel2420/Angel2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
