@@ -5,7 +5,7 @@
 
 ![Banner para Linkedin Personal Minimalista Neutral](https://github.com/user-attachments/assets/51fc3859-de8e-4afc-ae95-6ce3418ff40b)
 
-## Sobre mí 😄
+## Lo que encontrarás aquí 😄
 
 - ⚙️ Estudiante de Ingeniería Industrial
 - 💻 Material relacionado a: Power BI, SQL y Excel
