@@ -10,7 +10,7 @@
 - ⚙️ Estudiante de Ingeniería Industrial - UNMSM
 - 💻 Material relacionado a: Power BI, SQL y Excel
 - 📊 Proyectos y dashboards de diversos sectores
-- 🧠 Arendiendo Python
+- 🧠 Aprendiendo Python
 
 ## Hecha un vistazo a algunos de mis dashboards 🔍👀
 | BI - Ventas Para la Industria de Videojuegos | BI - Análisis de Población e Indicadores Mundiales |
