@@ -21,6 +21,12 @@
 | ----------- |
 |![20240918_114947](https://github.com/user-attachments/assets/8ed26aa0-a29c-469c-9640-e5f07279a0bb)|
 
+## Entra en detalle en los portafolios
+
+<div align="center">
+  <h1 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxtdzNvcjl6YzluNXFxdGVzYW9rNXpnNDJ3aXE3dTFwaWkxaXY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/adUWwxJuEvA07yJDw6/giphy.gif" width="350"></h1>
+</div>
+
 <!--
 **Angel2420/Angel2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
