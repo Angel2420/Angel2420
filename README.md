@@ -17,7 +17,7 @@
 | ----------- | ----------- |
 |![PBI_Videojuegos](https://github.com/user-attachments/assets/c5f46e55-9b8e-4ebc-a326-04e5b317e7e8)|![Población e Ind (1)](https://github.com/user-attachments/assets/3530d6a9-a6f4-48cb-a057-b2c9f71217b5)|
 
-| BI - Ventas Para la Industria de Videojuegos |
+| BI - Reporte de Recursos Humanos |
 | ----------- |
 |![20240918_114947](https://github.com/user-attachments/assets/8ed26aa0-a29c-469c-9640-e5f07279a0bb)|
 
