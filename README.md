@@ -15,7 +15,7 @@
 
 | BI - Ventas Para la Industria de Videojuegos | BI - Análisis de Población e Indicadores Mundiales |
 | ----------- | ----------- |
-|![Videoj (1)](https://github.com/user-attachments/assets/6d4af8ce-fec2-4c43-84e3-200deb9cfa78)|![Población e Ind (1)](https://github.com/user-attachments/assets/3530d6a9-a6f4-48cb-a057-b2c9f71217b5)|
+|![Videoj (1)](https://github.com/user-attachments/assets/6d4af8ce-fec2-4c43-84e3-200deb9cfa78)|![indicad (1)](https://github.com/user-attachments/assets/28c48f63-73b7-4243-868a-dd909e066bfe)|
 
 | BI - Reporte de Recursos Humanos |
 | ----------- |
