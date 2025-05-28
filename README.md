@@ -7,7 +7,7 @@
 ## Lo que encontrarás aquí 😄
 
 - ⚙️ Estudiante de Ingeniería Industrial - UNMSM
-- 💻 Material relacionado a: Power BI, SQL y Excel
+- 💻 Material relacionado a: Power BI, SQL, Excel, Bizagi, etc
 - 📊 Proyectos y dashboards de diversos sectores
 - 🧠 Aprendiendo Python
 
