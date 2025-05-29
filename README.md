@@ -25,7 +25,7 @@
 | ----------- |
 |![Captura de pant](https://github.com/user-attachments/assets/e346c478-fad8-4011-8027-b63edc322ef9)|
 
-## Entra a detalle en los repositorios 🗂️
+## Encuentra la documentación y detalle de los proyectos en la sección de portafolios 🗂️
 
 <div align="center">
   <h1 align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxtdzNvcjl6YzluNXFxdGVzYW9rNXpnNDJ3aXE3dTFwaWkxaXY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/adUWwxJuEvA07yJDw6/giphy.gif" width="350"></h1>
