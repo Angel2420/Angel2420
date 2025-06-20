@@ -13,6 +13,12 @@
 
 ## Hecha un vistazo a algunos de mis dashboards 🔍👀
 
+| [BI - Ventas Para la Industria de Videojuegos](https://github.com/Angel2420/Portafolio_de_Power_BI) | [BI - Análisis de Población e Indicadores Mundiales](https://github.com/Angel2420/Portafolio_de_Power_BI) |
+| ----------- | ----------- |
+| [![Videoj (1)](https://github.com/user-attachments/assets/6d4af8ce-fec2-4c43-84e3-200deb9cfa78)](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![indicad (1)](https://github.com/user-attachments/assets/28c48f63-73b7-4243-868a-dd909e066bfe)](https://github.com/Angel2420/Portafolio_de_Power_BI) |
+
+## Hecha un vistazo a algunos de mis dashboards 🔍👀
+
 | BI - Ventas Para la Industria de Videojuegos | BI - Análisis de Población e Indicadores Mundiales |
 | ----------- | ----------- |
 |![Videoj (1)](https://github.com/user-attachments/assets/6d4af8ce-fec2-4c43-84e3-200deb9cfa78)|![indicad (1)](https://github.com/user-attachments/assets/28c48f63-73b7-4243-868a-dd909e066bfe)|
