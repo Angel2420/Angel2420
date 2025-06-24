@@ -17,9 +17,9 @@
 | [![Imagen Proyecto 1](https://github.com/user-attachments/assets/6d4af8ce-fec2-4c43-84e3-200deb9cfa78)](https://github.com/Angel2420/Portafolio_de_Power_BI) <br> [🔗 Ver proyecto](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![Imagen Proyecto 2](https://github.com/user-attachments/assets/28c48f63-73b7-4243-868a-dd909e066bfe)](https://github.com/Angel2420/Portafolio_de_Power_BI) <br> [🔗 Ver proyecto](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 
 ## Hecha un vistazo a algunos de mis dashboards 🔍👀
-|Pronóstico de Ventas - Bahía Marina|
+|[Pronóstico de Ventas - Bahía Marina](https://github.com/Angel2420/Portafolio_de_Power_BI)|
 | ----------- |
-|![Ventas_Restaurante](https://github.com/user-attachments/assets/07aa7586-2ad2-4d27-a3bc-247007ac0e24)|
+|[![Ventas_Restaurante](https://github.com/user-attachments/assets/07aa7586-2ad2-4d27-a3bc-247007ac0e24)](https://github.com/Angel2420/Portafolio_de_Power_BI)|
 
 | [BI - Ventas Para la Industria de Videojuegos](https://github.com/Angel2420/Portafolio_de_Power_BI) | [BI - Análisis de Población e Indicadores Mundiales](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 | ----------- | ----------- |
