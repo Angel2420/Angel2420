@@ -11,8 +11,8 @@
 - 📊 Proyectos y dashboards de diversos sectores
 - 🧠 Aprendiendo Python
 
+![small_space](https://github.com/user-attachments/assets/37fe19ec-7bd0-4da6-89f8-3709b6687fa3)
 
-![espacio](https://github.com/user-attachments/assets/e812b14c-1bea-4d14-8e97-171ad9c8d4bb)
 ## Dashboards de proyectos 🔍
 |[Pronóstico de Ventas - Bahía Marina](https://github.com/Angel2420/Portafolio_de_Power_BI)|
 | ----------- |
