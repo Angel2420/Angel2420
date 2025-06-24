@@ -23,7 +23,7 @@
 
 | [BI - Reporte de Recursos Humanos](https://github.com/Angel2420/Portafolio_de_Power_BI) | [BI - Finanzas Personales](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 | ----------- | ----------- |
-| [![Reporte_RRHH](https://github.com/user-attachments/assets/d1c021dd-ddb4-4a26-b390-c2c215b6cc1e)](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![Reporte_Finanzas](https://github.com/user-attachments/assets/51097bb6-c225-48b9-bf1f-2491244df1dc)](https://github.com/Angel2420/Portafolio_de_Power_BI) |
+| [![Reporte_Salarial_RRHH](https://github.com/user-attachments/assets/2b54d0e0-4ebe-4324-893b-10f8a499749d)](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![Reporte_Finanzas](https://github.com/user-attachments/assets/51097bb6-c225-48b9-bf1f-2491244df1dc)](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 
 | BI - DAX (Pronósticos con media movil y más)|
 | ----------- |
