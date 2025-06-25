@@ -22,9 +22,11 @@
 | ----------- | ----------- |
 | [![Reporte_Salarial_RRHH](https://github.com/user-attachments/assets/2b54d0e0-4ebe-4324-893b-10f8a499749d)](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![Reporte_Finanzas](https://github.com/user-attachments/assets/51097bb6-c225-48b9-bf1f-2491244df1dc)](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 
+<!--
 | [BI - Ventas Para la Industria de Videojuegos](https://github.com/Angel2420/Portafolio_de_Power_BI) | [BI - Análisis de Población e Indicadores Mundiales](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 | ----------- | ----------- |
 | [![Videoj (1)](https://github.com/user-attachments/assets/6d4af8ce-fec2-4c43-84e3-200deb9cfa78)](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![indicad (1)](https://github.com/user-attachments/assets/28c48f63-73b7-4243-868a-dd909e066bfe)](https://github.com/Angel2420/Portafolio_de_Power_BI) |
+-->
 
 ![espacio](https://github.com/user-attachments/assets/5986919e-8a96-42b9-bc6e-be0d0144d6e0)
 
