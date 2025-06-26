@@ -39,7 +39,17 @@
 | ----------- |
 |[![image](https://github.com/user-attachments/assets/d497120e-8ed2-42b1-8fb1-cb55de52571b)](https://github.com/Angel2420/Portfolio_de_Excel)|
 
+![espacio](https://github.com/user-attachments/assets/5986919e-8a96-42b9-bc6e-be0d0144d6e0)
 
+## Diagrama de Procesos del Gestión de Tesis en EPITC - UNMSM 🔍
+|[Modelo BPMN del proceso de titulación - EPITC](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi)|
+| ----------- |
+|![portada_bizagi](https://github.com/user-attachments/assets/5d149818-fcd8-4cd1-a303-4e72b08df542)|
+<!--|[![Diagrama de Proceso para gestión de tesis EPITC](https://github.com/user-attachments/assets/a93bd15c-34dd-4c0b-98ef-82164623b7eb)](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi)|-->
+
+| [1era Etapa](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)| [2da Etapa](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)| [3era Etapa](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)|
+| ----------- | ----------- | ----------- |
+| [![1ra Etapa](https://github.com/user-attachments/assets/b35b419e-2256-493f-96c4-fb740c5529b9)](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)| [![2da Etapaxd](https://github.com/user-attachments/assets/ef004356-c49b-4efc-8b73-eaa032010abc)](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)| [![3ra Etapa xd](https://github.com/user-attachments/assets/f56a9564-6c29-461c-bea7-5eff82d087a5)](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)|
 <!--
 | BI - DAX (Pronósticos con media movil y más)|
 | ----------- |
