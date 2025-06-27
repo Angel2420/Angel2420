@@ -11,7 +11,7 @@
 - 📊 Proyectos y dashboards de diversos sectores
 
 
-![small_space](https://github.com/user-attachments/assets/37fe19ec-7bd0-4da6-89f8-3709b6687fa3)
+<!--![small_space](https://github.com/user-attachments/assets/37fe19ec-7bd0-4da6-89f8-3709b6687fa3)-->
 
 ## Dashboards de proyectos 🔍
 |[Pronóstico de Ventas - Bahía Marina](https://github.com/Angel2420/Portafolio_de_Power_BI)|
