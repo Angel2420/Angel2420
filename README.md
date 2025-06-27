@@ -39,16 +39,16 @@
 | ----------- | ----------- |
 | [![image](https://github.com/user-attachments/assets/16ddc727-c54d-4b25-8b6a-2c196c045ec7)](https://github.com/Angel2420/Portfolio_de_Excel) | [![image](https://github.com/user-attachments/assets/742241c9-b861-44b0-aad5-9bb61e29b022)](https://github.com/Angel2420/Portfolio_de_Excel) |
 
-|[Funciones en Power Query](https://github.com/Angel2420/Portfolio_de_Excel)|
+<!--|[Funciones en Power Query](https://github.com/Angel2420/Portfolio_de_Excel)|
 | ----------- |
-|[![image](https://github.com/user-attachments/assets/d497120e-8ed2-42b1-8fb1-cb55de52571b)](https://github.com/Angel2420/Portfolio_de_Excel)|
+|[![image](https://github.com/user-attachments/assets/d497120e-8ed2-42b1-8fb1-cb55de52571b)](https://github.com/Angel2420/Portfolio_de_Excel)|-->
 
 ![espacio](https://github.com/user-attachments/assets/5986919e-8a96-42b9-bc6e-be0d0144d6e0)
 
 ## Diagrama de Procesos del Gestión de Tesis en EPITC - UNMSM 🔍
-|[Modelo BPMN del proceso de titulación - EPITC](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi)|
+<!--|[Modelo BPMN del proceso de titulación - EPITC](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi)|
 | ----------- |
-|![portada_bizagi](https://github.com/user-attachments/assets/5d149818-fcd8-4cd1-a303-4e72b08df542)|
+|![portada_bizagi](https://github.com/user-attachments/assets/5d149818-fcd8-4cd1-a303-4e72b08df542)|-->
 <!--|[![Diagrama de Proceso para gestión de tesis EPITC](https://github.com/user-attachments/assets/a93bd15c-34dd-4c0b-98ef-82164623b7eb)](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi)|-->
 
 | [1era Etapa](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)| [2da Etapa](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)| [3era Etapa](https://github.com/Angel2420/Flujo_de_Proceso_en_Bizagi/edit/main/README.md)|
