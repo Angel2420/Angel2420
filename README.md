@@ -31,6 +31,10 @@
 ![espacio](https://github.com/user-attachments/assets/5986919e-8a96-42b9-bc6e-be0d0144d6e0)
 
 ## Tablas Dinámicas y Power Query 📊
+|[Flujo de Caja Proyectado con Macros - Bahía Marina](https://github.com/Angel2420/Portfolio_de_Excel)|
+| ----------- |
+|[![Flujo de Caja Proyectado](https://github.com/user-attachments/assets/c5fda62e-2dda-45ec-a97f-2f24b52b0469)](https://github.com/Angel2420/Portfolio_de_Excel)|
+
 | [Representación Porcentuals](https://github.com/Angel2420/Portfolio_de_Excel) | [Agrupación de Datos](https://github.com/Angel2420/Portfolio_de_Excel) |
 | ----------- | ----------- |
 | [![image](https://github.com/user-attachments/assets/16ddc727-c54d-4b25-8b6a-2c196c045ec7)](https://github.com/Angel2420/Portfolio_de_Excel) | [![image](https://github.com/user-attachments/assets/742241c9-b861-44b0-aad5-9bb61e29b022)](https://github.com/Angel2420/Portfolio_de_Excel) |
