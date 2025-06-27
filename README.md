@@ -4,12 +4,12 @@
 
 ![Banner para Linkedin Personal Minimalista Neutral](https://github.com/user-attachments/assets/51fc3859-de8e-4afc-ae95-6ce3418ff40b)
 
-## Lo que encontrarás aquí 😄
+## Bienvenido 😄
 
 - ⚙️ Estudiante de Ingeniería Industrial - UNMSM
-- 💻 Material relacionado a: Power BI, SQL, Excel, Bizagi, etc
+- 💻 Material relacionado a: Power BI, SQL, Excel, Bizagi, Python, etc
 - 📊 Proyectos y dashboards de diversos sectores
-- 🧠 Aprendiendo Python
+
 
 ![small_space](https://github.com/user-attachments/assets/37fe19ec-7bd0-4da6-89f8-3709b6687fa3)
 
