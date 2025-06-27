@@ -30,7 +30,7 @@
 
 ![espacio](https://github.com/user-attachments/assets/5986919e-8a96-42b9-bc6e-be0d0144d6e0)
 
-## Tablas Dinámicas y Power Query 📊
+## Macros, Tablas Dinámicas y Power Query 📊
 |[Flujo de Caja Proyectado con Macros - Bahía Marina](https://github.com/Angel2420/Portfolio_de_Excel)|
 | ----------- |
 |[![Flujo de Caja Proyectado](https://github.com/user-attachments/assets/c5fda62e-2dda-45ec-a97f-2f24b52b0469)](https://github.com/Angel2420/Portfolio_de_Excel)|
