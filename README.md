@@ -12,6 +12,11 @@
 
 
 <!--![small_space](https://github.com/user-attachments/assets/37fe19ec-7bd0-4da6-89f8-3709b6687fa3)-->
+## Dashboards de proyectos 🔍
+|[Pronóstico de Ventas - Bahía Marina](https://github.com/Angel2420/Portafolio_de_Power_BI)|[Indicadores Financieros - Sector Seguros en Perú](https://github.com/Angel2420/Portafolio_de_Power_BI)|
+| ----------- | ----------- |
+|[![Ventas_Restaurante](https://github.com/user-attachments/assets/07aa7586-2ad2-4d27-a3bc-247007ac0e24)](https://github.com/Angel2420/Portafolio_de_Power_BI)|[![Sector Seguros Perú](https://github.com/user-attachments/assets/bd94acc4-19a9-49a9-82fa-c0fe1a40c269)](https://github.com/Angel2420/Portafolio_de_Power_BI)|
+
 
 ## Dashboards de proyectos 🔍
 |[Pronóstico de Ventas - Bahía Marina](https://github.com/Angel2420/Portafolio_de_Power_BI)|
