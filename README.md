@@ -20,7 +20,7 @@
 
 |[Indicadores Financieros - Sector Seguros en Perú](https://github.com/Angel2420/Portafolio_de_Power_BI)|
 | ----------- |
-|[![Sector Seguros P](https://github.com/user-attachments/assets/0f605622-a3c2-430e-8684-37f453b39ae9)](https://github.com/Angel2420/Portafolio_de_Power_BI)|
+|[![Sector Seguros Perú](https://github.com/user-attachments/assets/bd94acc4-19a9-49a9-82fa-c0fe1a40c269)](https://github.com/Angel2420/Portafolio_de_Power_BI)|
 
 
 | [BI - Reporte de Recursos Humanos](https://github.com/Angel2420/Portafolio_de_Power_BI) | [BI - Finanzas Personales](https://github.com/Angel2420/Portafolio_de_Power_BI) |
