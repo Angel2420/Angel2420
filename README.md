@@ -18,6 +18,11 @@
 | ----------- |
 |[![Ventas_Restaurante](https://github.com/user-attachments/assets/07aa7586-2ad2-4d27-a3bc-247007ac0e24)](https://github.com/Angel2420/Portafolio_de_Power_BI)|
 
+|[Indicadores Financieros - Sector Seguros en Perú](https://github.com/Angel2420/Portafolio_de_Power_BI)|
+| ----------- |
+|[![IIFF Sector Seguros](https://github.com/user-attachments/assets/d1dce84c-3e93-43e3-b1d3-6d99b58926ae)](https://github.com/Angel2420/Portafolio_de_Power_BI)|
+
+
 | [BI - Reporte de Recursos Humanos](https://github.com/Angel2420/Portafolio_de_Power_BI) | [BI - Finanzas Personales](https://github.com/Angel2420/Portafolio_de_Power_BI) |
 | ----------- | ----------- |
 | [![Reporte_Salarial_RRHH](https://github.com/user-attachments/assets/2b54d0e0-4ebe-4324-893b-10f8a499749d)](https://github.com/Angel2420/Portafolio_de_Power_BI) | [![Reporte_Finanzas](https://github.com/user-attachments/assets/51097bb6-c225-48b9-bf1f-2491244df1dc)](https://github.com/Angel2420/Portafolio_de_Power_BI) |
